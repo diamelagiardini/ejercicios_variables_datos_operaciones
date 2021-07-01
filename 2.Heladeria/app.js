@@ -4,4 +4,4 @@ let gusto1 = prompt("Ingresa el primer gusto");
 let gusto2 = prompt("Ingresa el segundo gusto");
 let gusto3 = prompt("Ingresa el tercer gusto");
 
-alert("Aca tenes tu helado super imaginario de " + gusto1 + ", " + gusto2 + "y " + gusto3 + "! Que los disfrutes 💜");
+alert("Aca tenes tu helado super imaginario de " + gusto1 + ", " + gusto2 + " y " + gusto3 + "! Que los disfrutes 💜");
